@@ -1,0 +1,13 @@
+# Binaries
+/swissrounds
+*.exe
+*.test
+*.out
+
+# Go
+/vendor/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
